@@ -6,7 +6,7 @@ describe("About Control Structures (about_control_structures.js)", function(){
     }
 
     // каково значение переменной isPositive?
-    expect(FILL_ME_IN).toBe(isPositive);
+    expect(true).toBe(isPositive);
   });
 
   it("for", function() {
@@ -16,7 +16,7 @@ describe("About Control Structures (about_control_structures.js)", function(){
     }
 
     // каково значение счетчика?
-    expect(FILL_ME_IN).toBe(counter);
+    expect(16).toBe(counter);
   });
 
   it("for in", function() {
